@@ -9,7 +9,7 @@ Write a programme which takes a number input, and checks if it is prime or not.
 (1,56,17,"twenty nine")
 Note the string input in the end.
 
-#2. Using the ideas from first problem, write a programme which gives you first N primes
+#2. Using the ideas from first problem, write a programme which gives you first N primes.
 
 ##Input : (5,10,100)
 
@@ -18,5 +18,31 @@ What improvements can be made?
 
 #3. Given the coordinates of a triangle, check if it is a right angle triangle or not. Also find it's area.
 
-## Input : 
+## Input :
 $$ (x_1, y_1), (x_2,y_2), (x_3,y_3) $$
+
+#4. Reversals
+
+ - Given a number, find and print its reverse
+
+    for eg. 1345 -> 5431
+
+    Note: Try not to use the internet for this, and figure out the 'algorithm' on your own.
+
+ - Given a string, find and print its reverse
+
+    for eg. ahoronov -> vonoroha
+
+    Note: For this, maybe look up how, on the internet.
+
+ - Now that you know the procedure for strings, do you think you can use it to reverse a number?
+
+    Hint: You can convert between 'strings' and 'integers'.
+
+#5. Re-ordering
+
+Given a list of fruits:
+
+    fruits = ['apple', 'banana', 'mango', 'guava', 'orange', 'pineapple', 'strawberry']
+
+write a program to re-order them in ascending order of your preference of these fruits.
